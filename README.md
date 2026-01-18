@@ -37,9 +37,8 @@ The app translates a **limited predefined set of words** between multiple langua
 ---
 
 ## 🚀 How to Run
-    ```bash
-         npm install
-         npx expo start
+          npm install
+          npx expo start
 ---
 
 ## ⚠️ Limitations
@@ -51,3 +50,9 @@ The app translates a **limited predefined set of words** between multiple langua
 -Not a full translator
 
 ---
+
+## 💻 Developer
+### Nadeen Abu Hilweh
+- GitHub:[ @Nadeen218](https://github.com/Nadeen218)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/nadeen-abu-hilweh/)
+
