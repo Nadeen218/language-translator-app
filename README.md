@@ -51,12 +51,16 @@ The app translates a **limited predefined set of words** between multiple langua
 
 ---
 ## 📱 App Preview
-### Home Screen
-<img width="426" height="883" alt="Screenshot 2026-01-18 021008" src="https://github.com/user-attachments/assets/7dcf3f74-52e2-49fa-bd26-decb0402e1ae" />
-### Input Screen
-<img width="439" height="884" alt="Screenshot 2026-01-18 021030" src="https://github.com/user-attachments/assets/5c57b1ca-a0ad-4671-99ef-f8647460784d" />
-### Display Screen
-<img width="424" height="889" alt="Screenshot 2026-01-18 021040" src="https://github.com/user-attachments/assets/b59f818d-1e6c-4190-9b7c-d2e5ed2cd7d8" />
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7dcf3f74-52e2-49fa-bd26-decb0402e1ae" width="200" />
+  <img src="https://github.com/user-attachments/assets/5c57b1ca-a0ad-4671-99ef-f8647460784d" width="200" />
+  <img src="https://github.com/user-attachments/assets/b59f818d-1e6c-4190-9b7c-d2e5ed2cd7d8" width="200" />
+</p>
+
+<p align="center">
+  <i>Home · Input · Display</i>
+</p>
 
 ---
 
